@@ -1,0 +1,6 @@
+----------- Nếu muốn chạy code ------------
+cài nodejs
+
+vào terminal: 
+npm i
+npm run dev
